@@ -1,2 +1,3 @@
 # bookbot
-guided project from boot.dev to make a command line program that analyzes books using python
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
